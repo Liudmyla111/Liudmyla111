@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Liudmyla Shepetiuk
 - 👀 I’m interested in Data analytics and Data Science
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on data analytics projects.
+- 💞️ I’m looking to collaborate on data analytics projects
 - 📫 How to reach me:
 linkedin: https://www.linkedin.com/in/liudmyla-shepetiuk-59819219b/
 telegram: @Liud_miIa
