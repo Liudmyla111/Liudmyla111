@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Liudmyla Shepetiuk
+- 👋 Hi, I’m Liudmyla
 - 👀 I’m interested in Data analytics and Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on data analytics projects
