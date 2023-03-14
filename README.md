@@ -1,12 +1,9 @@
-- 👋 Hi, I’m Liudmyla
-- 👀 I’m interested in Data analytics and Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on data analytics projects
-- 📫 How to reach me:
-linkedin: https://www.linkedin.com/in/liudmyla-shepetiuk-59819219b/
-telegram: @Liud_miIa
+Hey there, I'm Liudmyla! 👋
 
-<!---
-Liudmyla111/Liudmyla111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a data enthusiast who's always up for a good challenge in the world of analytics and data science. 👀
+
+I'm currently sharpening my Python skills and trying to level up my data game! 🌱
+
+If you're looking for someone to collaborate on some cool data projects with, I'm your gal! Let's make some magic happen. 💞️
+
+Reach out to me on LinkedIn at https://www.linkedin.com/in/liudmyla-shepetiuk-59819219b/ or shoot me a message on Telegram at @Liud_miIa. Let's connect! 📫
