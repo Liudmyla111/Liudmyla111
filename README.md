@@ -13,5 +13,7 @@ Hi, I'm Liudmyla! I'm a data science enthusiast with a passion for uncovering in
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Liudmyla111&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Liudmyla111&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+</a>
+<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
