@@ -15,5 +15,4 @@ Hi, I'm Liudmyla! I'm a data science enthusiast with a passion for uncovering in
 ---
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Liudmyla111">
-</a>
-<a href="https://github.com/Liudmyla111?tab=followers"><img src="https://img.shields.io/github/followers/Liudmyla111?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Liudmyla111?tab=followers"><img src="https://img.shields.io/github/followers/Liudmyla111?label=Followers&style=social" alt="GitHub Badge">
